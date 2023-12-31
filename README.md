@@ -7,7 +7,7 @@ Setup:
 
 * In a console: `python -m venv venv` to create a venv environment named venv
 
-* Activate it (`.\venv\Scripts\activate on windows`, `source venv/bin/activate` on mac/linux)
+* Activate it (`.\venv\Scripts\activate` on windows, `source venv/bin/activate` on mac/linux)
 
 * Install dependencies `pip install -r requirements.txt`
 
